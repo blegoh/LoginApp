@@ -22,3 +22,7 @@ class Admin extends Authenticatable
         'password', 'remember_token',
     ];
 }
+function coba()
+{
+    
+}
